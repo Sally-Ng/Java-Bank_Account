@@ -1,6 +1,6 @@
 ## Bank Account 
 Language: Java </br>
-Create a bank account object and a interactive driver program that allow user to create and modify their bank account. 
+Created a bank account object and a interactive driver program that allow user to create and modify their bank account. 
 
 </br>
 <p align="left">
